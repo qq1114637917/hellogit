@@ -2,6 +2,7 @@
 	本程序实现的是整数和分数的算术式的输出，以及其中的答案。
 	可以指定是整数还是分数式，可以指定数量 
 */
+
 #include<iostream>
 #include<stdlib.h>
 #include<time.h>
